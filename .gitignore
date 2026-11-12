@@ -1,0 +1,11 @@
+# dados, derivados e resultados (baixados ou gerados pela pipeline)
+dados/
+dados_externo/
+dados_teste*/
+
+# ambiente e cache
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
